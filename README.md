@@ -7,3 +7,10 @@
 
 test_mmdet2pytorch.py : mmdet -> pytorch
 test_paddle2pytorch.py : paddle -> pytorch
+
+---
+## 参考博客
+1. Pytorch查看，输出，打印模型各个网络层的名字和参数
+<https://blog.csdn.net/u014261408/article/details/120996966> 
+2. PaddlePaddle与Pytoch模型参数之间相互赋值的实现方法 https://zhuanlan.zhihu.com/p/188744602 
+3. https://cloud.tencent.com/developer/ask/sof/807229
