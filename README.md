@@ -4,3 +4,6 @@
 不知道 pytorch 官方提供的 resnet 是否可以直接使用，所以从 paddle 和 mmdet 中找，因为他们都提供了 resnet_vd 的代码和预训练模型。
 
 目前，对于 paddle 的只有转化后的代码，没有把 paddle 提供的预训练模型转过来。对于 mmdet 既有转化代码，也有转化的 pretrained。
+
+test_mmdet2pytorch.py : mmdet -> pytorch
+test_paddle2pytorch.py : paddle -> pytorch
